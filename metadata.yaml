@@ -1,10 +1,13 @@
 _repo: Municipal-Housecleaning-The-Methods-and-Experiences-of-American-Cities-In-Collecting-and-Disp__56271
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Burns, Cornelius F.
     gutenberg_agent_id: '48754'
     url: http://www.gutenberg.org/2009/agents/48754
+covers:
+- cover_type: archival
+  image_path: 56271-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Carpenter, Jeanne Daniels
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '48752'
     url: http://www.gutenberg.org/2009/agents/48752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56271#Municipal-Housecleaning-The-Methods-and-Experiences-of-American-Cities-In-Collecting-and-Disp_
 gutenberg_issued: '2017-12-31'
 gutenberg_type: Text
 identifiers:
